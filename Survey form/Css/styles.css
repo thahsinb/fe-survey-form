@@ -1,0 +1,44 @@
+#body{
+    border: outset;
+    background-color:white;
+    color: black;
+}
+
+.heading{
+    border: outset;
+    margin : 0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    border: 10px;
+    font-weight: bold;
+}
+
+.question{
+    margin-right: 20px;
+    width: 10px;
+    display: inline;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.qs:hover{
+    background-color:#E3F6FF;
+    
+    font-size: large;
+    
+    color: black;
+}
+
+#radiobutton{
+    height: 16px; 
+    width: 16px; 
+    border-spacing: 30px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 30px 10px;
+}
+.div{
+    text-align: match-parent;
+}
